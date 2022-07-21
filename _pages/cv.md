@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Dalian Univ of Tech, 2018
+* M.S. in CS, Georgia Tech, 2023
+* Ph.D in Chemical Engineering, Georgia Tech, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Intern
+  * Boehringer Ingelheim
+  * Duties included: Pharma 4.0
+  * Supervisor: Dom
 
 * Fall 2015: Research Assistant
   * Github University
