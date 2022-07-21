@@ -11,9 +11,9 @@ title                    : "Zhenzi Yu / Personal Website"
 title_separator          : "-"
 name                     : &name "Zhenzi Yu"
 description              : &description "personal description"
-url                      : https://zhenziyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zyu331.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/zyu331/zhenziyu.github.io"
+repository               : "https://github.com/zyu331/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zyu331"
   google_plus      :
   keybase          :
   instagram        :
