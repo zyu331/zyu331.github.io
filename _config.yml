@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhenzi Yu"
   avatar           : "profile.png"
-  bio              : "A nerdy PhD Student"
+  bio              : "A PhD Student interested in lots of nerdy things"
   location         : "Atlanta, GA, US"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Georgia Tech"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mE8aQyAAAAAJ&hl=en"
-  email            :
+  email            : "zjsxyzz@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,17 +99,17 @@ author:
   github           : "zyu331"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/zhenzi_yu/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zhenzi-yu-985b62139/"
+  orcid            : "http://orcid.org/0000-0002-9197-2280"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
